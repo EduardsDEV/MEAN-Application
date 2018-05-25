@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gugui3z24/MEAN-Stack-With-Angular-2-Tutorial.git"
+    "url": "git+https://github.com/EduardsDEV/MEAN-Application"
   },
   "keywords": [
     "MEAN",
@@ -17,12 +17,9 @@
     "2",
     "Application"
   ],
-  "author": "David Acosta",
+  "author": "ES",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/gugui3z24/MEAN-Stack-With-Angular-2-Tutorial/issues"
-  },
-  "homepage": "https://github.com/gugui3z24/MEAN-Stack-With-Angular-2-Tutorial#readme",
+  "homepage": "https://github.com/EduardsDEV/MEAN-Application#readme",
   "dependencies": {
     "express": "^4.15.3",
     "mongoose": "^4.10.2"
